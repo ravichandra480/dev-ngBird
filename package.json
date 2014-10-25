@@ -1,0 +1,12 @@
+{
+  "name": "ng-bird",
+  "description": "A quickstart AngularJS project for ng-bird",
+  "repository": "https://github.com/ravichandra480/dev-ngBird",
+  "devDependencies": {
+    "express": "*"
+  },
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
